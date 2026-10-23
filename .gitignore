@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 venv/
 .env
+*.pt
+results/
+evaluation_results*
+.streamlit/
